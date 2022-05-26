@@ -1,0 +1,19 @@
+.script {
+    background-color: black;
+    color: white;
+}
+.script div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dp {
+    display: flex;
+    height: 30vh;
+    width: 15vw;
+    border-radius: 50%;
+}
+.sticker {
+    font-size: 50px;
+    height: 10vh;
+}
